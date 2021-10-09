@@ -1,1 +1,1 @@
-# c25_Archer_Game_2
+# project-C25-template
